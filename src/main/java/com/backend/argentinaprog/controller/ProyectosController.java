@@ -3,9 +3,7 @@ package com.backend.argentinaprog.controller;
 
 import com.backend.argentinaprog.dto.Mensaje;
 import com.backend.argentinaprog.dto.ProyectosDto;
-import com.backend.argentinaprog.dto.SkillsDto;
 import com.backend.argentinaprog.entity.Proyectos;
-import com.backend.argentinaprog.entity.Skills;
 import com.backend.argentinaprog.service.ProyectosService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
